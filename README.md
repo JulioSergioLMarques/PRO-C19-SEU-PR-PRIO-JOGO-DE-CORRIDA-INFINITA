@@ -1,2 +1,2 @@
-# trex
-Versão do T-rex do Chrome criado no editor p5
+# MegaMen
+Meu jogo que foi um pouco dificil 

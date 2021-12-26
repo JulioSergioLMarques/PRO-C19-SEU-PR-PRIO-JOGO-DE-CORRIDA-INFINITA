@@ -1,1 +1,2 @@
-# PRO-C19-SEU-PR-PRIO-JOGO-DE-CORRIDA-INFINITA
+# trex
+Versão do T-rex do Chrome criado no editor p5
